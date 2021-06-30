@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Lowongan Kerja ke Perawat Ke Luar Negeri dan Dapatkan Penghasilan Tinggi | Nursehub ID</title>
+        <meta name="description" content="Jadikan mimpimu kenyataan untuk bekerja ke luar negeri dan dapatkan penghasilan hingga 3500 Euro">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
         

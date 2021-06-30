@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Formulir Lowongan Kerja ke Luar Negeri</title>
+        <meta name="description" content="Isi Formulir Kerja Keluar Negeri Sekarang Juga dan Jadikan Mimpimu Kenyataan bersama Nursehub ID">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
         

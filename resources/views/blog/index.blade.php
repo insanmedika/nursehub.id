@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Blog Tentang Lowongan Kerja Perawat Ke Luar Negeri</title>
+        <meta name="description" content="Kumpulan Artikel seputar lowongan kerja ke luar negeri">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
         
@@ -79,7 +80,7 @@
           <a 
             class="mb-4 md:mb-0 w-full md:w-2/3 relative rounded inline-block" 
             style="height: 24em;"
-            href="./blog.html"
+            href="#"
           >
             <div class="absolute left-0 bottom-0 w-full h-full z-10"
               style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
@@ -101,7 +102,7 @@
   
           <a class="w-full md:w-1/3 relative rounded" 
             style="height: 24em;"
-            href="./blog.html"
+            href="#"
           >
             <div class="absolute left-0 top-0 w-full h-full z-10"
               style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
@@ -125,7 +126,7 @@
           <div class="w-full lg:w-2/3">
   
             <a class="block rounded w-full lg:flex mb-10"
-              href="./blog-single-1.html"
+              href="#"
             >
               <div 
                 class="h-48 lg:w-48 flex-none bg-cover text-center overflow-hidden opacity-75"
@@ -217,32 +218,32 @@
                 <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                   <a href="#" class="flex items-center text-gray-600 cursor-pointer">
                     <span class="inline-block h-4 w-4 bg-green-300 mr-3"></span>
-                    Nutrition
-                    <span class="text-gray-500 ml-auto">23 articles</span>
+                    Lowongan Kerja ke Jerman
+                    <span class="text-gray-500 ml-auto">2 articles</span>
                     <i class='text-gray-500 bx bx-right-arrow-alt ml-1'></i>
                   </a>
                 </li>
                 <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                   <a href="#" class="flex items-center text-gray-600 cursor-pointer">
                     <span class="inline-block h-4 w-4 bg-indigo-300 mr-3"></span>
-                    Food & Diet
-                    <span class="text-gray-500 ml-auto">18 articles</span>
+                    Lowongan Kerja ke Belanda
+                    <span class="text-gray-500 ml-auto">1 articles</span>
                     <i class='text-gray-500 bx bx-right-arrow-alt ml-1'></i>
                   </a>
                 </li>
                 <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                   <a href="#" class="flex items-center text-gray-600 cursor-pointer">
                     <span class="inline-block h-4 w-4 bg-yellow-300 mr-3"></span>
-                    Workouts
-                    <span class="text-gray-500 ml-auto">34 articles</span>
+                    Lowongan Kerja ke Inggris
+                    <span class="text-gray-500 ml-auto">1 articles</span>
                     <i class='text-gray-500 bx bx-right-arrow-alt ml-1'></i>
                   </a>
                 </li>
                 <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                   <a href="#" class="flex items-center text-gray-600 cursor-pointer">
                     <span class="inline-block h-4 w-4 bg-blue-300 mr-3"></span>
-                    Immunity
-                    <span class="text-gray-500 ml-auto">9 articles</span>
+                    Lowongan Kerja ke Jepang
+                    <span class="text-gray-500 ml-auto">0 articles</span>
                     <i class='text-gray-500 bx bx-right-arrow-alt ml-1'></i>
                   </a>
                 </li>
