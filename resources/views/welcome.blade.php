@@ -68,7 +68,7 @@
                     <div class="bg-cover bg-center h-auto xl:h-3/4 text-white py-24 px-10 xl:py-36 xl:px-48 object-fill" style="background-image: url(/assets/images/kami-nursehub.jpeg)">
                     <p class="font-bold text-sm uppercase mb-5 text-white bg-primary inline-block p-2">Perawat</p>
                     <h1 class="text-3xl xl:text-4xl font-bold mb-2 sm:w-3/4">Jadilah Perawat di Jerman dan dapatkan penghasilan hingga 3500 Euro / Bulan</h1>
-                    <p class="text-lg xl:text-xl mb-8 leading-6 sm:w-3/4"><b>Daftar sekarang</b> dan jadikan mimpimu menjadi kenyataan bersama <b>Nursehub ID</b> untuk pergi bekerja menjadi Perawat di Jerman</p>
+                    <p class="text-lg xl:text-xl mb-8 leading-6 sm:w-3/4"><b>Daftar sekarang</b> dan jadikan mimpimu menjadi kenyataan bersama <b>Nursehub ID</b> untuk bekerja menjadi Perawat di Jerman</p>
                     <a href="/formulir" rel="nofollow" class="bg-primary py-4 px-8 text-white font-bold uppercase text-sm rounded hover:bg-gray-200 hover:text-gray-800">Daftar Sekarang</a>
                 </div> <!-- container -->
                 <br>
