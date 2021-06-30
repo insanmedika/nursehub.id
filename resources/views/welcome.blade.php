@@ -87,11 +87,11 @@
             
                 breakpoints: {
                     640: {
-                    slidesPerView: 3,
+                    slidesPerView: 1,
                     spaceBetween: 0,
                     },
                     768: {
-                    slidesPerView: 3,
+                    slidesPerView: 2,
                     spaceBetween: 0,
                     },
                     1024: {
