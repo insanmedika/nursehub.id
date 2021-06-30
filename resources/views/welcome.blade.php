@@ -65,8 +65,8 @@
             <div class="swiper-slide">
                 <div id="slider-1" class="mx-auto">
                     <div class="bg-cover bg-center h-auto xl:h-3/4 text-white py-24 px-10 xl:py-36 xl:px-48 object-fill" style="background-image: url(/assets/images/kami-nursehub.jpeg)">
-                    <p class="font-bold text-sm uppercase mb-5 text-white bg-primary inline-block p-2">Perawat / Caregiver</p>
-                    <h1 class="text-3xl xl:text-4xl font-bold mb-2 sm:w-3/4">Kamu seorang Perawat yang berkeinginan untuk bekerja di Jerman ?</h1>
+                    <p class="font-bold text-sm uppercase mb-5 text-white bg-primary inline-block p-2">Perawat</p>
+                    <h1 class="text-3xl xl:text-4xl font-bold mb-2 sm:w-3/4">Jadilah Perawat di Jerman dan dapatkan penghasilan hingga 3500 Euro / Bulan</h1>
                     <p class="text-lg xl:text-xl mb-8 leading-6 sm:w-3/4"><b>Daftar sekarang</b> dan jadikan mimpimu menjadi kenyataan bersama <b>Nursehub ID</b> untuk pergi bekerja menjadi Perawat di Jerman</p>
                     <a href="/formulir" rel="nofollow" class="bg-primary py-4 px-8 text-white font-bold uppercase text-sm rounded hover:bg-gray-200 hover:text-gray-800">Daftar Sekarang</a>
                 </div> <!-- container -->
@@ -121,7 +121,7 @@
                       <h2 class="font-semibold text-2xl mb-6">Persyaratan</h2>
                         <div>
                             <ul class="list-disc text-left">
-                                <li>Minimal Lulusan D3 Keperawatan</li>
+                                <li>Lulusan D3 Keperawatan / S1 Keperawatan</li>
                                 <li>Sehat Jasmani dan Rohani</li>
                                 <li>Siap Belajar Bahasa Jerman Dulu sebelum diberangkatkan</li>
                                 <li>Siap Menitipkan Deposite sebelum berangkat. Deposite akan dikembalikan jika perawat sudah tiba di Jerman</li>
@@ -141,21 +141,21 @@
             <div class="flex flex-col rounded-2xl overflow-hidden">
                 <div class="mx-5 h-full w-full grid place-content-center">
                     <div class="bg-primary rounded-2xl text-white p-8 text-center h-72 w-full mx-auto">
-                      <h3 class="text-3xl mb-3">Lowongan Kerja Caregiver ke Jerman</h3>
-                      <p class="text-lg mt-2">Dapatkan peluang bekerja ke Jerman bersama Nushub ID</p>
+                      <h3 class="text-3xl mb-3">Lowongan Kerja Perawat ke UK</h3>
+                      <p class="text-lg mt-2">Dapatkan peluang bekerja ke UK bersama Nushub ID</p>
                
                     </div>
                     <div class="bg-white py-8 px-10 text-center rounded-md shadow-lg transform -translate-y-20 sm:-translate-y-24 w-10/12 mx-auto">
                       <h2 class="font-semibold text-2xl mb-6">Persyaratan</h2>
                         <div>
                             <ul class="list-disc text-left">
-                                <li>Minimal Lulusan SMK Kesehatan</li>
+                                <li>Lulusan D3 Keperawatan / S1 Keperawatan</li>
                                 <li>Sehat Jasmani dan Rohani</li>
-                                <li>Siap Belajar Bahasa Jerman Dulu sebelum diberangkatkan</li>
-                                <li>Siap Menitipkan Deposite sebelum berangkat. Deposite akan dikembalikan jika perawat sudah tiba di Jerman</li>
+                                <li>Siap Belajar Bahasa Inggris Dulu sebelum diberangkatkan</li>
+                                <li>Siap Menitipkan Deposite sebelum berangkat. Deposite akan dikembalikan jika perawat sudah tiba di UK</li>
                             </ul>
                         </div>
-                      <button onclick="window.location.href='/formulir'" class="mt-5 rounded-md bg-gradient-to-r from-blue-400 to-indigo-500 text-xl text-white pt-3 pb-4 px-8 inline">Daftar Sekarang</button>
+                      <button class="mt-5 rounded-md bg-gradient-to-r from-blue-400 to-indigo-500 text-xl text-white pt-3 pb-4 px-8 inline">Belum Tersedia</button>
                     </div>
                 </div>
             </div>
@@ -177,7 +177,7 @@
                       <h2 class="font-semibold text-2xl mb-6">Persyaratan</h2>
                         <div>
                             <ul class="list-disc text-left">
-                                <li>Minimal Lulusan D3 Keperawatan</li>
+                                <li>Lulusan D3 Keperawatan / S1 Keperawatan</li>
                                 <li>Sehat Jasmani dan Rohani</li>
                                 <li>Siap Belajar Bahasa Belanda Dulu sebelum diberangkatkan</li>
                                 <li>Siap Menitipkan Deposite sebelum berangkat. Deposite akan dikembalikan jika perawat sudah tiba di Belanda</li>
