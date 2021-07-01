@@ -8,7 +8,7 @@
         <meta name="description" content="Jadikan mimpimu kenyataan untuk bekerja ke luar negeri dan dapatkan penghasilan hingga 3500 Euro">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-        
+        <meta name="google-site-verification" content="YiqTH3wxYSM6O7v5nsl5EayhiG8y4vbwOLSQHHMxNiM" />
         <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
         <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
         <!-- Fonts -->

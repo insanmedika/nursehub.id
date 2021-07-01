@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <meta name="google-site-verification" content="YiqTH3wxYSM6O7v5nsl5EayhiG8y4vbwOLSQHHMxNiM" />
         <title>Blog Tentang Lowongan Kerja Perawat Ke Luar Negeri</title>
         <meta name="description" content="Kumpulan Artikel seputar lowongan kerja ke luar negeri">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">

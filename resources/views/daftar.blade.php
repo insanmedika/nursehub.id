@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <meta name="google-site-verification" content="YiqTH3wxYSM6O7v5nsl5EayhiG8y4vbwOLSQHHMxNiM" />
         <title>Formulir Lowongan Kerja ke Luar Negeri</title>
         <meta name="description" content="Isi Formulir Kerja Keluar Negeri Sekarang Juga dan Jadikan Mimpimu Kenyataan bersama Nursehub ID">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
