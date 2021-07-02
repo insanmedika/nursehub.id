@@ -65,7 +65,7 @@
           <nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow pb-4 md:pb-0 hidden md:flex md:justify-end md:flex-row">
             <a class="px-4 py-2 mt-2 text-sm font-black text-white bg-transparent rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-gray-900 hover:bg-primary" href="/">Home</a>
             <a class="px-4 py-2 mt-2 text-sm font-black text-white bg-transparent rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-gray-900 hover:bg-primary" href="/blog">Blog</a>
-            <a class="px-4 py-2 mt-2 text-sm font-black text-white bg-transparent rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-gray-900 hover:bg-primary" href="/formulir">Lowongan</a>
+            <a class="px-4 py-2 mt-2 text-sm font-black text-white bg-transparent rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-gray-900 hover:bg-primary" href="https://forms.gle/v1jtcBxoKs5oWm7s9">Lowongan</a>
             <a class="px-4 py-2 mt-2 text-sm font-black text-white bg-transparent rounded-lg md:mt-0 md:ml-4 hover:text-white focus:text-gray-900 hover:bg-primary" href="/tentang-kami">Tentang Kami</a>
             </div>    
           </nav>
@@ -83,7 +83,7 @@
                     <p class="font-bold text-sm uppercase mb-5 text-white bg-primary inline-block p-2">Perawat</p>
                     <h1 class="text-3xl xl:text-4xl font-bold mb-2 sm:w-3/4">Jadilah Perawat di Jerman dan dapatkan penghasilan hingga 3500 Euro / Bulan</h1>
                     <p class="text-lg xl:text-xl mb-8 leading-6 sm:w-3/4"><b>Daftar sekarang</b> dan jadikan mimpimu menjadi kenyataan bersama <b>Nursehub ID</b> untuk bekerja menjadi Perawat di Jerman</p>
-                    <a href="/formulir" rel="nofollow" class="bg-primary py-4 px-8 text-white font-bold uppercase text-sm rounded hover:bg-gray-200 hover:text-gray-800">Daftar Sekarang</a>
+                    <a href="https://forms.gle/v1jtcBxoKs5oWm7s9" rel="nofollow" class="bg-primary py-4 px-8 text-white font-bold uppercase text-sm rounded hover:bg-gray-200 hover:text-gray-800">Daftar Sekarang</a>
                 </div> <!-- container -->
                 <br>
                 </div>
@@ -142,7 +142,7 @@
                                 <li>Siap Menitipkan Deposite sebelum berangkat. Deposite akan dikembalikan jika perawat sudah tiba di Jerman</li>
                             </ul>
                         </div>
-                      <button onclick="window.location.href='/formulir'" class="mt-5 rounded-md bg-gradient-to-r from-blue-400 to-indigo-500 text-xl text-white pt-3 pb-4 px-8 inline">Daftar Sekarang</button>
+                      <button onclick="window.location.href='https://forms.gle/v1jtcBxoKs5oWm7s9'" class="mt-5 rounded-md bg-gradient-to-r from-blue-400 to-indigo-500 text-xl text-white pt-3 pb-4 px-8 inline">Daftar Sekarang</button>
                     </div>
                 </div>
             </div>
