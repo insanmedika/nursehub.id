@@ -8,7 +8,8 @@
         <meta name="description" content="Isi Formulir Kerja Keluar Negeri Sekarang Juga dan Jadikan Mimpimu Kenyataan bersama Nursehub ID">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.css">
         <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
-        
+        <link rel="preload" href="{{ asset('css/app.css') }}" as="style">
+        <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" as="fonts">
         <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
         <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
         <!-- Fonts -->

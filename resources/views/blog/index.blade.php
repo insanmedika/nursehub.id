@@ -18,7 +18,8 @@
         <link rel="preload" href="{{ asset('css/app.css') }}" as="style">
         <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" as="font" type="font/woff2" crossorigin>
         <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
-
+        <link rel="preload" href="{{ asset('css/app.css') }}" as="style">
+        <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" as="fonts">
         <style>
             body {
                 font-family: 'Nunito', sans-serif;

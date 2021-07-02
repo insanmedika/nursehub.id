@@ -11,6 +11,9 @@
         <meta name="google-site-verification" content="YiqTH3wxYSM6O7v5nsl5EayhiG8y4vbwOLSQHHMxNiM" />
         <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
         <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <link rel="preload" href="{{ asset('css/app.css') }}" as="style">
+        <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" as="fonts">
+        
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
