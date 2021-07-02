@@ -38,7 +38,7 @@ class HomeController extends Controller
 
         if($request->hasFile('gambar_ktp')){
             $resorce       = $request->file('gambar_ktp');
-            $image_name   = $request->name.'-'.rand().'-'.$resorce->getClientOriginalName();
+            $image_name   = rand().'-'.$resorce->getClientOriginalName();
             $resorce->move(\base_path() ."/public/uploads/gambar_ktp", $image_name);
             
         }else{
@@ -47,7 +47,7 @@ class HomeController extends Controller
 
         if($request->hasFile('transkip_nilai')){
             $resorce       = $request->file('transkip_nilai');
-            $image_name2   = $request->name.'-'.rand().'-'.$resorce->getClientOriginalName();
+            $image_name2   = rand().'-'.$resorce->getClientOriginalName();
             $resorce->move(\base_path() ."/public/uploads/transkip_nilai", $image_name2);
             
         }else{
@@ -56,7 +56,7 @@ class HomeController extends Controller
 
         if($request->hasFile('cv')){
             $resorce       = $request->file('cv');
-            $image_name3   = $request->name.'-'.rand().'-'.$resorce->getClientOriginalName();
+            $image_name3   = rand().'-'.$resorce->getClientOriginalName();
             $resorce->move(\base_path() ."/public/uploads/cv", $image_name3);
         }else{
             echo "Gagal upload gambar";
@@ -64,7 +64,7 @@ class HomeController extends Controller
 
         if($request->hasFile('ijazah')){
             $resorce       = $request->file('ijazah');
-            $image_name4   = $request->name.'-'.rand().'-'.$resorce->getClientOriginalName();
+            $image_name4   = rand().'-'.$resorce->getClientOriginalName();
             $resorce->move(\base_path() ."/public/uploads/ijazah", $image_name4);
             
         }else{
