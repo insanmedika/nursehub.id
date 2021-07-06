@@ -182,7 +182,7 @@
             @if(count($lainnya)<1)
                 <h3>Lowongan Tidak Tersedia</h3>
               @endif
-            <div class="grid grid-cols-2 px-10">
+            <div class="grid md:grid-cols-2 px-10">
               @foreach ($lainnya as $data)
                   
               <div class="mb-5">
@@ -192,6 +192,7 @@
                 <p class="font-medium text-gray-500">Recruited By Nursehub.id</p></div>
               <div class="align-middle inline-block mx-auto right-0">
                 <a href="/lowongan/{{$data->slug_judul}}" class="inline-flex justify-center py-2 w-36 px-4 border border-transparent shadow-sm text-lg font-medium rounded-md text-white bg-primary hover:bg-primary focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary">Apply</a>
+                <hr class="mb-5 mt-5">
               </div>
               @endforeach
               
