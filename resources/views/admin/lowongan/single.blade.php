@@ -182,7 +182,7 @@
             @if(count($lainnya)<1)
                 <h3>Lowongan Tidak Tersedia</h3>
               @endif
-            <div class="grid md:grid-cols-2 px-10">
+            <div class="grid md:grid-cols-2">
               @foreach ($lainnya as $data)
                   
               <div class="mb-5">

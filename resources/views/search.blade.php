@@ -110,7 +110,7 @@
           @if(count($all)<1)
               <h3>Lowongan Tidak Tersedia</h3>
             @endif
-          <div class="grid md:grid-cols-2 px-10">
+          <div class="grid md:grid-cols-2 ">
           @if(count($_POST)>0)
           @foreach ($search as $data)
                   
