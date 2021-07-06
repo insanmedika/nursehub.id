@@ -7,6 +7,14 @@ use DB;
 
 class HomeController extends Controller
 {
+    public function search(Request $request){
+        $all = DB::table('jobs')->paginate(10);
+        $search = DB::table('jobs')
+            ->where('name','like','%'.$request->name.'%')
+            ->where('location', 'like','%'.$request->location.'%')
+            ->paginate(10);
+        return view('search', compact('all', 'search'));
+    }
     public function lowongansubmit(Request $request){
         
         $validated = $request->validate([
