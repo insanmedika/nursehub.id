@@ -123,6 +123,8 @@
                 <a href="/lowongan/{{$data->slug_judul}}" class="inline-flex justify-center py-2 w-36 px-4 border border-transparent shadow-sm text-lg font-medium rounded-md text-white bg-primary hover:bg-primary focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary">Apply</a>
               </div>
               @endforeach
+              <?php echo $search->render(); ?>
+
           @else
           @foreach ($all as $data)
                   
@@ -137,9 +139,10 @@
 
               </div>
               @endforeach
+              <?php echo $all->render(); ?>
+
               @endif
           </div>
-          
         </div>
     </section>
         <section class="bg-gray-700">
@@ -181,6 +184,7 @@
                     © 2021 Nursehub ID. All rights reserved.
                 </p>
             </div>
+            
         </section>
         @include('layouts.menu')
        

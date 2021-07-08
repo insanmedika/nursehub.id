@@ -245,7 +245,7 @@
             <div class="flex flex-col items-center justify-center mx-auto xl:flex-row max-w-7xl">
                 <div class="relative flex flex-col items-start justify-center w-full h-full max-w-2xl px-6 mx-auto xl:max-w-none xl:w-2/5">
         
-                    <h2 class="text-3xl font-bold leading-none text-gray-900 sm:w-full sm:text-6xl text-3">Blog tentang Lowongan Kerja</h2>
+                    <h2 class="text-3xl font-bold leading-none text-gray-900 sm:w-full sm:text-6xl text-3">Article</h2>
                     <div class="w-20 h-1 mt-3 ml-1 bg-primary rounded-full"></div>
                     <div class="relative flex mt-6 space-x-2">
                         <div @click="if(page > 1){ page-=1 }" class="flex items-center justify-center w-10 h-10 text-white bg-primary rounded cursor-pointer hover:bg-primary">
@@ -390,7 +390,6 @@
             <div class="flex flex-col items-center justify-center mx-auto xl:flex-row ">
                 <div class="relative flex flex-col items-start justify-center w-full h-full  px-6 mx-auto  xl:w-3/5">
             
-                    <h2 class="w-full container text-3xl font-bold text-left"> Nursehub ID, Aplikasi Penyaluran Perawat ke Luar Negeri</h2>
                     <p class="w-full py-8 mx-auto -mt-2 text-lg text-left text-gray-700 intro">Nursehub ID merupakan platform penyaluran perawat ke luar negeri. Nursehub ID akan membantu anda para perawat dan caregiver yang ingin bekerja ke luar negeri dengan aman. Kami siap menyalurkan perawat untuk bekerja di luar negeri seperti Jepang, Jerman dll.</p>
                 </div>
             </div>
