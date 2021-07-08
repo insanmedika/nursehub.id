@@ -133,8 +133,9 @@
                             <ul class="list-disc text-left">
                                 <li>Lulusan D3 Keperawatan / S1 Keperawatan</li>
                                 <li>Sehat Jasmani dan Rohani</li>
-                                <li>Siap Belajar Bahasa Jerman Dulu sebelum diberangkatkan</li>
-                                <li>Siap Menitipkan Deposite sebelum berangkat. Deposite akan dikembalikan jika perawat sudah tiba di Jerman</li>
+                                <li>Siap dilatih bahasa Jerman sampai B2 (A1 - B1 di Indonesia & B2 di Jerman)</li>
+                                <li>Membayar uang jaminan selama pelatihan bahasa Jerman (Dikembalikan 100 % saat tiba di Jerman</li>
+                                <li>Biaya Pelatihan bahasa Jerman, Asuransi, Visa & Tiket Pesawat direimburse oleh perusahaan</li>
                             </ul>
                         </div>
                       <button onclick="window.location.href='https://forms.gle/v1jtcBxoKs5oWm7s9'" class="mt-5 rounded-md bg-gradient-to-r from-blue-400 to-indigo-500 text-xl text-white pt-3 pb-4 px-8 inline">Daftar Sekarang</button>
