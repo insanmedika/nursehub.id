@@ -390,7 +390,7 @@
             <div class="flex flex-col items-center justify-center mx-auto xl:flex-row ">
                 <div class="relative flex flex-col items-start justify-center w-full h-full  px-6 mx-auto  xl:w-3/5">
             
-                    <p class="w-full py-8 mx-auto -mt-2 text-lg text-left text-gray-700 intro">Nursehub ID merupakan platform penyaluran perawat ke luar negeri. Nursehub ID akan membantu anda para perawat dan caregiver yang ingin bekerja ke luar negeri dengan aman. Kami siap menyalurkan perawat untuk bekerja di luar negeri seperti Jepang, Jerman dll.</p>
+                    <p class="w-full py-8 mx-auto -mt-2 text-lg text-left text-gray-700 intro">Nursehub adalah platform yang menghubungkan perawat Indonesia untuk bekerja ke luar negeri seperti Jerman, Australia, Kanada, Inggris dll.</p>
                 </div>
             </div>
         </section>
