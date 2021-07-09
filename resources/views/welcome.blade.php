@@ -133,6 +133,7 @@
                             <ul class="list-disc text-left">
                                 <li>Lulusan D3 Keperawatan / S1 Keperawatan</li>
                                 <li>Sehat Jasmani dan Rohani</li>
+                                <li>Memiliki Pengalaman Kerja 1 Tahun</li>
                                 <li>Siap dilatih bahasa Jerman sampai B2 (A1 - B1 di Indonesia & B2 di Jerman)</li>
                                 <li>Membayar uang jaminan selama pelatihan bahasa Jerman (Dikembalikan 100 % saat tiba di Jerman</li>
                                 <li>Biaya Pelatihan bahasa Jerman, Asuransi, Visa & Tiket Pesawat direimburse oleh perusahaan</li>
@@ -221,12 +222,7 @@
                     Jika anda berminat untuk menjadi perawat ke luar negeri bersama Nursehub ID. Anda bisa langsung klik daftar sekaran dan isi formulir yang kami berikan. Setelah anda mengisi formulir, kami akan melakukan validasi apakah anda sudah memenuhi persyaratan untuk bisa bekerja di luar negeri
                 </p>
             </div>
-            <div class="w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3">
-                <h3 class="text-lg font-bold text-primary sm:text-xl md:text-2xl">Apa maksud adanya Deposite ?</h3>
-                <p class="mt-2 text-base text-gray-600 sm:text-lg md:text-normal">
-                    Deposite artinya anda harus menyimpan uang terlebih dahulu sebagai jaminan sebelum diberangkatkan ke Jerman. Jika anda sudah tiba ke negara tujuan, uang anda akan kami kembalikan 100%
-                </p>
-            </div>
+           
             <div class="w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3">
                 <h3 class="text-lg font-bold text-primary sm:text-xl md:text-2xl">Apa saja faktor penentu perawat bisa diberangkatkan ke luar negeri</h3>
                 <p class="mt-2 text-base text-gray-600 sm:text-lg md:text-normal">
