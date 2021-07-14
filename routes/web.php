@@ -27,6 +27,9 @@ Route::get('/blog1', function () {
 Route::get('/tentang-kami', function () {
     return view('tentangkami');
 });
+Route::get('/sitemap.xml', function () {
+    return view('sitemap');
+});
 Route::get('/blog', function () {
     return view('blog.index');
 });
