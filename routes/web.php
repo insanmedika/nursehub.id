@@ -28,8 +28,10 @@ Route::get('/tentang-kami', function () {
     return view('tentangkami');
 });
 Route::get('/sitemap.xml', function () {
-    return view('sitemap');
-});
+    return response()->view('sitemap', [
+            
+        ])->header('Content-Type', 'text/xml');
+    });
 Route::get('/blog', function () {
     return view('blog.index');
 });
