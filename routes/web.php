@@ -53,3 +53,7 @@ Route::middleware(['auth:sanctum', 'verified'])->post('/dashboard/blog/store', [
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard/blog/edit/{id}', [App\Http\Controllers\BlogController::class, 'edit'])->name('blog.edit');
 Route::middleware(['auth:sanctum', 'verified'])->post('/dashboard/blog/update', [App\Http\Controllers\BlogController::class, 'update'])->name('blog.update');
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard/blog/destroy/{id}', [App\Http\Controllers\BlogController::class, 'destroy'])->name('blog.destroy');
+Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard/storage', [App\Http\Controllers\DropzoneController::class, 'dropzone'])->name('dropzone');
+Route::middleware(['auth:sanctum', 'verified'])->post('/dashboard/storage/store', [App\Http\Controllers\DropzoneController::class, 'dropzoneStore'])->name('dropzone.store');
+Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard/storage/fetch', [App\Http\Controllers\DropzoneController::class, 'fetch'])->name('dropzone.fetch');
+Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard/storage/delete', [App\Http\Controllers\DropzoneController::class, 'fileDestroy'])->name('dropzone.delete');
