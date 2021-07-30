@@ -52,8 +52,7 @@ class BlogController extends Controller
      */
     public function create()
     {
-        $category = DB::table('category')->get();
-        return view('admin.blog.create', compact('category'));
+        return view('admin.blog.create');
     }
 
     /**
